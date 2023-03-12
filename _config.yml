@@ -87,7 +87,7 @@ content:
           - Google Colab, Jupyter Notebook
 
   - title: Opensource
-    layout: top-middle
+    layout: list
     content: 
       - layout: top-middle
         title: 개인 블로그
