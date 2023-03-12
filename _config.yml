@@ -91,25 +91,25 @@ content:
     content: 
       - layout: left
         title: 개인 블로그
-        sub_title: https://blog.naver.com/alsrua7222
+        link: https://blog.naver.com/alsrua7222
         description: | # this will include new lines to allow paragraphs
           - 개발 진행하면서 생긴 문제점, 사용한 기술, 실수한 점, 일상에 대해서 자세히 정리하여 공유하기 위해 개설한 블로그
       - layout: left
         title: SeleniumNaverCafeWrite
-        sub_title: https://github.com/alsrua7222/SeleniumNaverCafeWrite
+        link: https://github.com/alsrua7222/SeleniumNaverCafeWrite
         description: | # this will include new lines to allow paragraphs
           - 네이버 API 중 글쓰기 API 지원 중단으로인해 만들어진 카페 글쓰기 API 대체제.
           - Python 코드로 원하는 내용을 작성하여 자동으로 글쓰기 할 수 있음.
       - layout: left
         title: NaverKinFilter
-        sub_title: https://github.com/alsrua7222/NaverKinFilter
+        link: https://github.com/alsrua7222/NaverKinFilter
         description: | # this will include new lines to allow paragraphs
           - 네이버 지식인에서 이상한 사람들을 자체적으로 판단하고 거르는 일이 귀찮아서 만든 크롬 확장프로그램.
           - 이벤트 리스너를 통해 임의로 설정한 조건에 의해 필터링.
           - 현재 크롬 확장프로그램 Shop에서 찾아서 설치할 수 있음.
       - layout: left
         title: CaptchaSolveKit(예정)
-        sub_title: None
+        link: None
         description: | # this will include new lines to allow paragraphs
           - 자동화 수행하면서 생기는 캡챠 인식 문제를 해결하는 프로그램.
           - 각 사이트에 탑재된 캡챠 문제지에 대한 해결해줌.
