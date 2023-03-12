@@ -88,7 +88,7 @@ content:
 
   - title: Opensource
     layout: list
-    content: | # this will include new lines to allow paragraphs
+    content: 
       - layout: left
         title: 개인 블로그
         sub_title: https://blog.naver.com/alsrua7222
