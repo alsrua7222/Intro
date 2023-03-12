@@ -87,14 +87,14 @@ content:
           - Google Colab, Jupyter Notebook
 
   - title: Opensource
-    layout: projects
+    layout: top-middle
     content: 
-      - layout: left
+      - layout: top-middle
         title: 개인 블로그
         link: https://blog.naver.com/alsrua7222
         description: | # this will include new lines to allow paragraphs
           - 개발 진행하면서 생긴 문제점, 사용한 기술, 실수한 점, 일상에 대해서 자세히 정리하여 공유하기 위해 개설한 블로그
-      - layout: left
+      - layout: top-middle
         title: SeleniumNaverCafeWrite
         link: https://github.com/alsrua7222/SeleniumNaverCafeWrite
         description: | # this will include new lines to allow paragraphs
@@ -102,14 +102,14 @@ content:
           - Python 코드로 원하는 내용을 작성하여 자동으로 글쓰기 할 수 있음.
           - SmartEditor 2.0 -> 3.0 버전에 맞게 호환될 수 있도록 수정 완료
           - SmartEditor 3.0 -> One 버전에 맞게 호환될 수 있도록 수정 중
-      - layout: left
+      - layout: top-middle
         title: NaverKinFilter
         link: https://github.com/alsrua7222/NaverKinFilter
         description: | # this will include new lines to allow paragraphs
           - 네이버 지식인에서 이상한 사람들을 자체적으로 판단하고 거르는 일이 귀찮아서 만든 크롬 확장프로그램.
           - 이벤트 리스너를 통해 임의로 설정한 조건에 의해 필터링.
           - 현재 크롬 확장프로그램 Shop에서 찾아서 설치할 수 있음.
-      - layout: left
+      - layout: top-middle
         title: CaptchaSolveKit(예정)
         link: None
         description: | # this will include new lines to allow paragraphs
@@ -120,7 +120,7 @@ content:
           - 정확도 99.89%으로 유의미한 결과를 얻는데에 성공.
 
   - title: Education # Title for the section
-    layout: education # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: 경남대학교
@@ -163,7 +163,6 @@ content:
           - 2학년(2016년)
             - 평균등급 6등급
             - 정보화(리버싱 엔지니어링, C++, 컴퓨터구조) 교육 독학
-            - 그레이 해커 활동
           - 3학년(2017년)
             - 평균등급 3등급
           - 졸업(2018년 2월)
@@ -171,7 +170,9 @@ content:
               - 1학년 개근상
               - 2학년 개근상
               - 3학년 결석 - 질병 1건
-      
+            - 수상이력
+              - 2학년 장려상
+              - 3학년 장려상
 
 # Footer
 footer_show_references: true
