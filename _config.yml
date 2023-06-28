@@ -101,7 +101,7 @@ content:
           - 네이버 API 중 글쓰기 API 지원 중단으로인해 만들어진 카페 글쓰기 API 대체제.
           - Python 코드로 원하는 내용을 작성하여 자동으로 글쓰기 할 수 있음.
           - SmartEditor 2.0 -> 3.0 버전에 맞게 호환될 수 있도록 수정 완료
-          - SmartEditor 3.0 -> One 버전에 맞게 호환될 수 있도록 수정 중
+          - SmartEditor 3.0 -> One 버전에 맞게 호환될 수 있도록 수정 됐으나, 공개되지 않고 영리적 목적으로 하는 사람들 많기 때문에 비공개 해둠.
       - layout: top-middle
         title: NaverKinFilter
         link: https://github.com/alsrua7222/NaverKinFilter
@@ -110,7 +110,7 @@ content:
           - 이벤트 리스너를 통해 임의로 설정한 조건에 의해 필터링.
           - 현재 크롬 확장프로그램 Shop에서 찾아서 설치할 수 있음.
       - layout: top-middle
-        title: CaptchaSolveKit(예정)
+        title: CaptchaSolveKit(비공개 레포지토리)
         link: None
         description: | # this will include new lines to allow paragraphs
           - 자동화 수행하면서 생기는 캡챠 인식 문제를 해결하는 프로그램.
@@ -118,7 +118,15 @@ content:
           - <mark>CRNN</mark> 모델을 사용함.
           - 이미지 정보를 최대한 유지한 채, <mark>ResNet</mark> 신경망 구조를 사용함.
           - 정확도 99.89%으로 유의미한 결과를 얻는데에 성공.
-
+      - layout: top-middle
+        title: 그 외 프로그램들
+        link: None
+        description: | # this will include new lines to allow paragraphs
+          - 외주 - 대쉬보드 자동화
+          - 외주 - 마케팅 프로그램 자동화 솔루션
+          - 외주 - C# 서비스 어플리케이션 프로그램 유지보수 솔루션
+          - 외주 - 매크로 프로그램 개발
+          - 외주 - 프로그램 리버싱 솔루션
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
